@@ -6,6 +6,12 @@ SecureLink Scanner is an original, client-safe URL security analysis and risk as
 
 ---
 
+## 🖥️ User Interface
+
+![SecureLink Scanner UI](./SecureLink-AI-UI-Combined.png)
+
+---
+
 ## 🚀 Pushing to GitHub
 
 If you downloaded the `.tar.gz` archive, follow these simple steps to push the project to your own GitHub repository:
