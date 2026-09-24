@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Sensitive files & key material
+*.pem
+*.key
+*.pfx
+*.cert
+*.crt
+*.bak
+*.swp
+*.tar.gz
+*.zip

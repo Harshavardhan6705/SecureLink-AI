@@ -1,0 +1,6 @@
+{
+  "name": "SecureLink Scanner",
+  "description": "Modern URL security analysis and risk assessment tool to inspect web links, detect phishing indicators, and evaluate domain safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
